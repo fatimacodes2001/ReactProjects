@@ -9,7 +9,7 @@ Some sample projects created using React while taking the course "The Modern Rea
 ![assets/hangman.png](assets/hangman.png)
 
 ## Card Dealer
-![assets/Screenshot (626).png](assets/Screenshot (626).png)
+![assets/card.png](assets/card.png)
 
 ## Ball Game
 ![assets/ball.png](assets/ball.png)
