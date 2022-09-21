@@ -1,4 +1,4 @@
-import React, { useContext} from "react";
+import React, { useContext, memo} from "react";
 import Todo from "./Todo";
 import Paper from "@material-ui/core/Paper";
 import List from "@material-ui/core/List";
@@ -29,4 +29,4 @@ function TodoList() {
     );
   return null;
 }
-export default TodoList;
+export default memo(TodoList);
